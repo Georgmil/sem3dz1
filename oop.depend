@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1634066656 source:c:\users\georgy milyushkov\documents\programirovanie\oop\clcircle.cpp
+	"clCircle.h"
+
+1633561387 c:\users\georgy milyushkov\documents\programirovanie\oop\clcircle.h
+	"clDraw.h"
+
+1634894048 source:c:\users\georgy milyushkov\documents\programirovanie\oop\main.cpp
+	"clNode.h"
+	"clRebro.h"
+	"clGraph.h"
+	<fstream>
+
+1633969017 c:\users\georgy milyushkov\documents\programirovanie\oop\clnode.h
+	"clCircle.h"
+	<cstdlib>
+
+1634900112 source:c:\users\georgy milyushkov\documents\programirovanie\oop\clnode.cpp
+	"clNode.h"
+
+1634895091 c:\users\georgy milyushkov\documents\programirovanie\oop\cldraw.h
+	<iostream>
+	<graphics.h>
+	<string>
+	<cstdlib>
+	<fstream>
+	<cmath>
+
+1634053134 source:c:\users\georgy milyushkov\documents\programirovanie\oop\clline.cpp
+	"clLine.h"
+
+1634053141 c:\users\georgy milyushkov\documents\programirovanie\oop\clline.h
+	"clDraw.h"
+
+1634066796 source:c:\users\georgy milyushkov\documents\programirovanie\oop\clrebro.cpp
+	"clRebro.h"
+
+1633718218 c:\users\georgy milyushkov\documents\programirovanie\oop\clrebro.h
+	"clLINE.h"
+	<cstdlib>
+
+1634898486 c:\users\georgy milyushkov\documents\programirovanie\oop\clgraph.h
+	"clDraw.h"
+	"clNode.h"
+	"clRebro.h"
+
+1634899103 source:c:\users\georgy milyushkov\documents\programirovanie\oop\clgraph.cpp
+	"clGraph.h"
+	"clNode.h"
+	"clCircle.h"
+	"math.h"
+
